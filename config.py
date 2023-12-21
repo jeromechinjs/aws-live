@@ -3,5 +3,5 @@ customuser = "aws_user"
 custompass = "Bait3273"
 customdb = "employee"
 custombucket = "chinjs-employee"
-customregion = "us-east-1b"
+customregion = "us-east-1"
 
